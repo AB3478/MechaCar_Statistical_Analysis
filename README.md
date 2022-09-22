@@ -29,5 +29,10 @@ The p-value for all lots is 0.06, which falls outside of the 0.05 significance l
 #### T-Test for Lot 1-3
 ![](https://github.com/AB3478/MechaCar_Statistical_Analysis/blob/29fb04e7f2593bc53f18c6efa4412c3b1fb80856/Resources/Lot_t_test.png)
 
-
 ## Study Design: MechaCar vs Competition
+With rising inflation and the high cost of gas prices, one test that consumers will likely be interested in is the highway and city fuel efficiency of MechaCar and its competitors. This key question can be answered through the following hypothesis test:
+-	H0 : MechaCar is more efficient than competitors
+-	Ha : MechaCar is not as efficient as its competitors
+
+We will need data on city and highway miles per gallon by manufacturer to determine the most fuel-efficient vehicle. To test this hypothesis, The analysis of variance (ANOVA) test would be appropriate, which is used to determine the means of a single dependent variable across a single independent variable with multiple groups.
+
