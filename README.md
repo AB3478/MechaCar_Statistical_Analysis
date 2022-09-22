@@ -23,5 +23,11 @@ The design specifications for the MechaCar suspension coils dictate that the var
 ## T-Tests on Suspension Coils
 The p-value for all lots is 0.06, which falls outside of the 0.05 significance level. There is not sufficient evidence to reject the  null hypothesis.
 
+#### Summary T-Test
+![](https://github.com/AB3478/MechaCar_Statistical_Analysis/blob/29fb04e7f2593bc53f18c6efa4412c3b1fb80856/Resources/t_test.png)
+
+#### T-Test for Lot 1-3
+![](https://github.com/AB3478/MechaCar_Statistical_Analysis/blob/29fb04e7f2593bc53f18c6efa4412c3b1fb80856/Resources/Lot_t_test.png)
+
 
 ## Study Design: MechaCar vs Competition
